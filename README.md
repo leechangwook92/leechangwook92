@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leechangwook92
 - 👀 I’m interested in java
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python and java 
 - 📫 How to reach me lcy12225@naver.com 
 
 <!---
